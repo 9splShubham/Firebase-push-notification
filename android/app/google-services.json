@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943158981770",
+    "project_id": "spl-fcm",
+    "storage_bucket": "spl-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943158981770:android:a7604fb4d9fd8644f82973",
+        "android_client_info": {
+          "package_name": "com.splfcm.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943158981770-45ac404um4ls8q38pagpfjbcpg8j70gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP14IY_tYKsSjrG3S7BbNbsKyEUnO2Jak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943158981770-45ac404um4ls8q38pagpfjbcpg8j70gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
